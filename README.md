@@ -5,7 +5,7 @@
 
 - Bootstrap 2 Autocomplete;
 - Bootstrap 3 Snippets;
-- COlorPicker;
+- ColorPicker;
 - Material Theme;
 - SublimeCodeIntel;
 - SublimeLinter;
