@@ -10,5 +10,5 @@
 - SublimeCodeIntel;
 - SublimeLinter;
 - SublimeLinter-jshint;
-- TernJS;
+- TernJS; (Ctrl + Space for JS Autocomplete)
 - jQuery;
