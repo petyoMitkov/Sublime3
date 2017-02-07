@@ -10,5 +10,5 @@
 - SublimeCodeIntel;
 - SublimeLinter;
 - SublimeLinter-jshint;
--TernJS;
--jQuery;
+- TernJS;
+- jQuery;
