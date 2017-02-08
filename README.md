@@ -12,3 +12,7 @@
 - SublimeLinter-jshint;
 - TernJS; (Ctrl + Space for JS Autocomplete)
 - jQuery;
+- View in Browser; 
+    CTRL + ALT + F - Firefox, 
+    CTRL + ALT + C - Chrome,
+    CTRL + ALT + I - Internet Explorer
