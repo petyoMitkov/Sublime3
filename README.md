@@ -6,6 +6,7 @@
 - Bootstrap 2 Autocomplete;
 - Bootstrap 3 Snippets;
 - ColorPicker;
+- Boxy Ocean Theme;
 - Material Theme;
 - SublimeCodeIntel;
 - SublimeLinter;
